@@ -30,7 +30,7 @@
 
     "logger" : {
         "level" : "debug",
-        "file" : "~/rvn-kawpow-pool/logs/nomp_debug.log"
+        "file" : "~/easyNOMP-Ravencoin/logs/nomp_debug.log"
     },
 
     "cliHost": "127.0.0.1",
@@ -68,8 +68,8 @@
         "host": "0.0.0.0",
         "port": 80,
         "sslport": 443,
-        "sslkey": "~/rvn-kawpow-pool/certs/privkey.pem",
-        "sslcert": "~/rvn-kawpow-pool/certs/fullchain.pem",
+        "sslkey": "~/easyNOMP-Ravencoin/certs/privkey.pem",
+        "sslcert": "~/easyNOMP-Ravencoin/certs/fullchain.pem",
         "stratumHost": "192.168.0.200",
         "stats": {
             "updateInterval": 5,
